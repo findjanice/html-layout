@@ -1,0 +1,24 @@
+body,html {
+  background-color: #E6E6E6;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+header {
+  width: 100%;
+  height: 20%;
+  background-color: #333333;
+}
+.blockOne{
+  background-color: white;
+  width: 50%;
+  height: 70%;
+  margin: auto;
+
+}
+.blockTwo {
+  background-color: black;
+  width: 50%;
+  height: 10%;
+ margin: auto;
+}
